@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|c:\\users\\pc\\desktop\\web information\\informationsmvc\\informationsmvc\\migrations\\20240411110509_initusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0CE14F-2F53-4FD0-AD14-6C6AC4BBD0CA}|InformationsMVC\\InformationsMVC.csproj|solutionrelative:informationsmvc\\migrations\\20240411110509_initusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "InformationsMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "InformationsMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAQwHkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T12:48:44.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "InformationsMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "InformationsMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:54:49.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "InformationsMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "InformationsMVC\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:26:22.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "InformationsMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "InformationsMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:01:59.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "InformationsMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "InformationsMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:57:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "InformationsMVC\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "InformationsMVC\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T12:18:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "InformationsMVC\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "InformationsMVC\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:43:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "InformationsMVC\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "InformationsMVC\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:26:13.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InformationsMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Models\\User.cs",
+              "RelativeToolTip": "InformationsMVC\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:36:16.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InformationsMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InformationsMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:07:53.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "InformationsMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "InformationsMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:54:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InformationsMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InformationsMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T12:23:31.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240411110509_initUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Migrations\\20240411110509_initUserTable.cs",
+              "RelativeDocumentMoniker": "InformationsMVC\\Migrations\\20240411110509_initUserTable.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web Information\\InformationsMVC\\InformationsMVC\\Migrations\\20240411110509_initUserTable.cs",
+              "RelativeToolTip": "InformationsMVC\\Migrations\\20240411110509_initUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:05:09.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
