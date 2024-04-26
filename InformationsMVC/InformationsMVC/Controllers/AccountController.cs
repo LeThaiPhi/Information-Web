@@ -1,6 +1,9 @@
 ﻿using InformationsMVC.Data;
 using InformationsMVC.Models;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 namespace InformationsMVC.Controllers
 {
     public class AccountController : Controller
@@ -31,9 +34,35 @@ namespace InformationsMVC.Controllers
             }
             else
             {
+                        var claims = new List<Claim>
+                        {
+                    new Claim(ClaimTypes.Name, _user.Email),
+                    new Claim("FullName", _user.Name),
+                    new Claim(ClaimTypes.Role,_user.UserRole),
+                        };
+
+                var claimsIdentity = new ClaimsIdentity(
+                    claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+                var authProperties = new AuthenticationProperties
+                {
+                  
+                };
+
+                 HttpContext.SignInAsync(
+                    CookieAuthenticationDefaults.AuthenticationScheme,
+                    new ClaimsPrincipal(claimsIdentity),
+                    authProperties);
                 return RedirectToAction("Index", "Account");
             }
             return View();
         }
+        public IActionResult Logout()
+        {
+            HttpContext.SignOutAsync(
+            CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Login", "Account");
+        }
     }
+   
 }

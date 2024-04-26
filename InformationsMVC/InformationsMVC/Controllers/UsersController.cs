@@ -1,10 +1,12 @@
 ﻿using InformationsMVC.Data;
 using InformationsMVC.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace InformationsMVC.Controllers
 {
+    [Authorize(Roles = "Administrator")]
     public class UsersController : Controller
     {
         private readonly InformationsMVCContext _context;

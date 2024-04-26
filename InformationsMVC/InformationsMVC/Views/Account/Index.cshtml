@@ -3,6 +3,10 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
-<h1>Heeeloooooooooooo </h1>
+@if(User.Identity.IsAuthenticated){
+    <h1>Heeeloooooooooooo please go toaaa<a href="/Account/Logout">Logout</a> </h1>
+}
+else{
+    <h1>please go to <a href="/Account/Login">Login page</a></h1>
+}
 

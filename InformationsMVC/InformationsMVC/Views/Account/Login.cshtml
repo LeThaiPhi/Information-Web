@@ -102,6 +102,14 @@ span.psw {
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 @using (Html.BeginForm("Login","Account", FormMethod.Post)){
+    if(ViewBag.LoginStatus != null && ViewBag.LoginStatus == 0)
+    {
+        <div style="background-color: #ff0000">
+            <p>
+                Sai email hoac ten dang nhap, vui long dang nhap lai
+            </p>
+        </div>
+    }
 <div class="container">
         <label for="uname"><b>Username</b></label>
         @Html.TextBoxFor(m => m.Email, new { @placeholder = "Enter Username" })
